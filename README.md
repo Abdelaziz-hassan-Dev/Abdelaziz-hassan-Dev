@@ -33,7 +33,7 @@ I am a passionate developer focused on building smart solutions using Embedded S
 
 <div align="center">
 
-  <a href="[www.linkedin.com/in/abdelaziz-hassan-5b58b0216](https://www.linkedin.com/in/abdelaziz-hassan-5b58b0216)" target="_blank">
+  <a href="https://www.linkedin.com/in/abdelaziz-hassan-5b58b0216" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
