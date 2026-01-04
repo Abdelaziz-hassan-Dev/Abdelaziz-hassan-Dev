@@ -1,4 +1,4 @@
-# Hi there, I'm Abdelaziz Kamal! 👋
+# Hi there, I'm Abdelaziz Hassan! 👋
 
 ### 🚀 Embedded Systems Engineer & Developer
 
