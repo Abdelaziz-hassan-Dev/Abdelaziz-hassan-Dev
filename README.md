@@ -15,8 +15,8 @@ I am a passionate developer focused on building smart solutions using Embedded S
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelaziz-hassan-Dev&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelaziz-hassan-Dev&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+  <img src="[https://github-readme-stats.vercel.app/api?username=Abdelaziz-hassan-Dev&show_icons=true&theme=radical&hide_border=true](https://github-readme-stats.vercel.app/api?username=Abdelaziz-hassan-Dev&show_icons=true&theme=radical&hide_border=true)" height="180" alt="stats graph" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelaziz-hassan-Dev&layout=compact&theme=radical&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelaziz-hassan-Dev&layout=compact&theme=radical&hide_border=true)" height="180" alt="languages graph" />
 </div>
 
 ---
@@ -24,4 +24,4 @@ I am a passionate developer focused on building smart solutions using Embedded S
 ### 📫 Connect with me
 
 * [LinkedIn](www.linkedin.com/in/abdelaziz-hassan-5b58b0216)
-* [Email](abdelaziz.hassan.846@gmail.com)
+* [Email](mailto:abdelaziz.hassan.846@gmail.com)
