@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Abdelaziz Kamal! 👋
 
-<!--
-**Abdelaziz-hassan-Dev/Abdelaziz-hassan-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Embedded Systems Engineer & Developer
 
-Here are some ideas to get you started:
+I am a passionate developer focused on building smart solutions using Embedded Systems and IoT technologies. I love turning code into physical actions!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** C, C++, Python
+* **Microcontrollers:** STM32, ESP32, Arduino
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelaziz-hassan-Dev&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelaziz-hassan-Dev&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+</div>
+
+---
+
+### 📫 Connect with me
+
+* [LinkedIn](www.linkedin.com/in/abdelaziz-hassan-5b58b0216)
+* [Email](abdelaziz.hassan.846@gmail.com)
