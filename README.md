@@ -31,5 +31,14 @@ I am a passionate developer focused on building smart solutions using Embedded S
 
 ### 📫 Connect with me
 
-* [LinkedIn](www.linkedin.com/in/abdelaziz-hassan-5b58b0216)
-* [Email](mailto:abdelaziz.hassan.846@gmail.com)
+<div align="center">
+
+  <a href="www.linkedin.com/in/abdelaziz-hassan-5b58b0216" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:abdelaziz.hassan.846@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+</div>
